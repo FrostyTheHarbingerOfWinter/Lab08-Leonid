@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab08-Leonid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e708fec58fc4ee464a1ed33dbcd6309e78afcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a815b9d03df6cb59a858aa5918b12eb0034a37f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab08-Leonid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab08-Leonid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

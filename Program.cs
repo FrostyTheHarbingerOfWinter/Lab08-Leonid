@@ -65,3 +65,33 @@
 
 
 
+// string answer;
+
+// do
+// {
+//     Console.Write("введите дату посещения (например, 01.09):");
+//     string date = Console.ReadLine();
+//     Console.WriteLine($"Запись добавлена: {date}");
+
+//     Console.Write("Добавить ещё одну запись? (да/нет): ");
+//     answer = Console.ReadLine();
+// } while (answer == "да");
+
+// Console.WriteLine("Дневник сохранён");
+
+
+
+Console.Write("Введите свою фамилию: ");
+string surname = Console.ReadLine()!.Trim();
+if (string.IsNullOrEmpty(surname)) {
+Console.WriteLine("Фамилия не введена. Завершение работы.");
+return;
+}
+Random rnd = new(surname.GetHashCode() + DateTime.Now.DayOfYear);
+var assigned = Enumerable.Range(1, 10)
+.OrderBy(_ => rnd.Next())
+.Take(2)
+.OrderBy(x => x)
+.ToList();
+Console.WriteLine($"Задачи: №{assigned[0]} и №{assigned[1]}");
+
