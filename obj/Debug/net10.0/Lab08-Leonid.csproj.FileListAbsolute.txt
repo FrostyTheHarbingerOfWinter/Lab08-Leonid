@@ -1,0 +1,15 @@
+C:\Users\Student_01\Documents\Lab08-Leonid\bin\Debug\net10.0\Lab08-Leonid.exe
+C:\Users\Student_01\Documents\Lab08-Leonid\bin\Debug\net10.0\Lab08-Leonid.deps.json
+C:\Users\Student_01\Documents\Lab08-Leonid\bin\Debug\net10.0\Lab08-Leonid.runtimeconfig.json
+C:\Users\Student_01\Documents\Lab08-Leonid\bin\Debug\net10.0\Lab08-Leonid.dll
+C:\Users\Student_01\Documents\Lab08-Leonid\bin\Debug\net10.0\Lab08-Leonid.pdb
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.AssemblyInfoInputs.cache
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.AssemblyInfo.cs
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.csproj.CoreCompileInputs.cache
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.sourcelink.json
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.dll
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\refint\Lab08-Leonid.dll
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.pdb
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\Lab08-Leonid.genruntimeconfig.cache
+C:\Users\Student_01\Documents\Lab08-Leonid\obj\Debug\net10.0\ref\Lab08-Leonid.dll
